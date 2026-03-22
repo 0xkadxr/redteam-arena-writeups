@@ -1,4 +1,4 @@
-![CI](https://github.com/kadirou12333/redteam-arena-writeups/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/kadirou12333/redteam-arena-writeups/actions/workflows/ci.yml/badge.svg?branch=master)
 
 # AI Red Team Arena Writeups
 
