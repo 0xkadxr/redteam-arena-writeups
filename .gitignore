@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Environment variables
+.env
+.env.local
+
+# Generated images (keep scripts, not outputs)
+writeups/visual-vulnerabilities/*/output/
+*.png
+*.jpg
+*.bmp
+!resources/*.png
+
+# Logs
+*.log
+
+# API keys and secrets
+secrets.json
+config.local.yaml
