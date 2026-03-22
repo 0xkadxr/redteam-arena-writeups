@@ -1,3 +1,5 @@
+![CI](https://github.com/kadirou12333/redteam-arena-writeups/actions/workflows/ci.yml/badge.svg)
+
 # AI Red Team Arena Writeups
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
